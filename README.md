@@ -7,17 +7,17 @@ By [Dirk Wulff](https://www.wu.ac.at/en/bads/team/dirk-wulff) and [Zak Hussain](
 ### Schedule
 
 <font style="font-size:10">09:00 AM - 09:30 AM: Welcome & Intro<br>
-09:30 AM - 10:30 AM: Talk: Top-level intro to LLMs (as a mechanism) (Dirk)<br>
+09:30 AM - 10:30 AM: Talk: Intro to LLMs<br>
 10:30 AM - 10:45 AM: Break<br>
-10:45 AM - 11:45 AM: Talk: Architecture (Dirk)<br>
-11:45 AM - 12:30 PM: Talk: Hugging Face (first exercise demonstration) (Zak)<br>
+10:45 AM - 11:45 AM: Talk: Intro to Transformers<br>
+11:45 AM - 12:30 PM: Talk: Intro Hugging Face<br>
 12:30 PM - 02:00 PM: Lunch<br>
-02:00 PM - 03:00 PM: Talk: Text generation and prompting (Zak)<br>
-03:00 PM - 03:30 PM: Exercise: Chat with HuggingChat (Zak)<br>
+02:00 PM - 03:00 PM: Talk: Intro to Text Generation and Prompting<br>
+03:00 PM - 03:30 PM: Exercise: Chat with HuggingChat<br>
 03:30 PM - 03:45 PM: Break<br>
-03:45 PM - 04:30 PM: Talk: LLMs in Science (incl. Agents) (Dirk)<br>
+03:45 PM - 04:30 PM: Talk: LLMs in Science<br>
 04:30 PM - 05:15 PM: Discussion<br>
-05:45 PM - 06:00 PM: Wrap-up incl. Assignment<br>
+05:45 PM - 06:00 PM: Wrap-up<br>
 </font>
 
 ### Resources
@@ -38,4 +38,6 @@ By [Dirk Wulff](https://www.wu.ac.at/en/bads/team/dirk-wulff) and [Zak Hussain](
 [Hugging face book](https://transformersbook.com/)<br>
 [But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
 
+## Evaluation
 
+Please fill out the course evaluation [here](https://evasys.unibas.ch/evasys/online.php?p=4PNX6).  
