@@ -1,5 +1,7 @@
 ## Understanding-LLMs-UniBas-2026
 
+![cover image](cover_grace.jpeg)
+
 This course provides a conceptual foundation for understanding how modern LLMs work and how to use them effectively in research.
 
 By [Dirk Wulff](https://www.wu.ac.at/en/bads/team/dirk-wulff) and [Zak Hussain](https://www.linkedin.com/in/zakir-a-s-hussain/)
