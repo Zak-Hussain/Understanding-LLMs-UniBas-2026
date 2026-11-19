@@ -10,7 +10,7 @@ By [Dirk Wulff](https://www.wu.ac.at/en/bads/team/dirk-wulff) and [Zak Hussain](
 09:30 AM - 10:30 AM: Talk: Intro to LLMs<br>
 10:30 AM - 10:45 AM: Break<br>
 10:45 AM - 11:45 AM: Talk: Intro to Transformers<br>
-11:45 AM - 12:30 PM: Talk: Intro Hugging Face<br>
+11:45 AM - 12:30 PM: Talk & Demo: Intro Hugging Face<br>
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: Talk: Intro to Text Generation and Prompting<br>
 03:00 PM - 03:30 PM: Demo: Chat with HuggingChat<br>
