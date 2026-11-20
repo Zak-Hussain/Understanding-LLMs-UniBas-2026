@@ -93,7 +93,7 @@ Research with LLMs involves many choices: which model, which prompt, which hyper
 3. **Results:** how the approaches performed (a table or figure is encouraged). Go beyond point estimates such as raw accuracy: report inferential statistics (e.g., confidence intervals, bootstrapped standard errors, or a significance test) so readers can judge whether the differences between approaches are reliable.
 4. **Limitations:** what might weaken your conclusions.
 
-**Please submit the assignment to Zak (zakir.a.s.hussain at gmail dot com)** 
+**Please submit the assignment to Zak (zakir.a.s.hussain at gmail dot com) by December 11th, 2026** 
 
 
 
