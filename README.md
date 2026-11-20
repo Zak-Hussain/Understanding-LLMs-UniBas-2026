@@ -65,6 +65,21 @@ drive.mount("/content/drive")
 ```
 9. Go back to your Google Drive and navigate to the folder "Understanding-LLMs-UniBas-2026". You can then click on `hf_intro.ipynb` and start working through the notebook. 
 
-## Evaluation
+### Evaluation
 
 Please fill out the course evaluation [here](https://evasys.unibas.ch/evasys/online.php?p=4PNX6).  
+
+### Assignment
+
+Research with LLMs involves many choices: which model, which prompt, which hyperparameters, and so on. As we stressed in the course, basic heuristics only get you so far. The most reliable way to choose is to test the options **in the specific context where you plan to use them**. For example, if you are automating a literature review and can't decide between Model A and Model B, run both and compare their accuracy against a ground truth (or a proxy for it, such as human expert labels).
+
+**Task:** Pick a research problem and compare at least two LLM-based approaches to it. You might vary the model, the prompt, the temperature, or something else.
+
+**Deliverable:** A research report of at most 2 pages that covers:
+1. **Problem:** what you are trying to do and why it matters.
+2. **Methods:** the approaches you compared, your data, and how you measured performance.
+3. **Results:** how the approaches performed (a table or figure is encouraged). Go beyond point estimates such as raw accuracy: report inferential statistics (e.g., confidence intervals, bootstrapped standard errors, or a significance test) so readers can judge whether the differences between approaches are reliable. 
+4. **Limitations:** what might weaken your conclusions.
+
+
+
