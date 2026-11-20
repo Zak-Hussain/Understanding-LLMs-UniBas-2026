@@ -1,0 +1,1 @@
+- 1.5 hrs for Text Generation Talk + Demo was too long, ~1hr. Add more stuff from classification slides. 
