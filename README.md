@@ -46,7 +46,7 @@ By [Dirk Wulff](https://www.wu.ac.at/en/bads/team/dirk-wulff) and [Zak Hussain](
 
 ### Installation Instructions
 
-#### Hugging Face and Meta Llama License
+#### Hugging Face 
 
 1. Create a hugging Face account (https://huggingface.co/join).
 2. Navigate to [your Hugging Face profile settings](https://huggingface.co/settings/tokens) to generate an API token (+Create new token). Set the token type to 'Read' and give it a name (e.g., 'understanding-LLMs').
